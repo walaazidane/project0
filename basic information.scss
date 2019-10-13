@@ -1,0 +1,21 @@
+$maincolor: #6c6c6c;
+$headcolor: #146C2C;
+$tablehead-color: #ffffff;
+body {
+  background-color: $maincolor
+}
+#test {
+  .head {
+    color: $headcolor
+  }
+  .tablehead {
+    color: $tablehead-color
+  }
+}
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: #94447c
+  }
+}
+
+/*# sourceMappingURL=basic%20information.css.map */

@@ -1,0 +1,32 @@
+body{
+	background-color: #AF4E64;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+table,th,td{
+	border: 2px dashed #B4DC1C;
+	padding: 20px;
+}
+table{
+	border-collapse: collapse;
+	background-color: #045B04;
+}
+.tableheader{
+	color: #BC329D;
+}
+.tabledata{
+	color: white;
+}
+h1{
+	color: black;
+}
+@media only screen and (max-width: 900px){
+	body{
+		background-color: #580AEF;
+	}
+
+
+}

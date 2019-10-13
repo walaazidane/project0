@@ -1,0 +1,19 @@
+body {
+  background-color: #6c6c6c;
+}
+
+#test .head {
+  color: #146C2C;
+}
+#test .tablehead {
+  color: #ffffff;
+}
+
+@media only screen and (max-width: 900px) {
+  body {
+    background-color: #94447c;
+  }
+}
+/*# sourceMappingURL=basic%20information.css.map */
+
+/*# sourceMappingURL=basic%20information.css.map */

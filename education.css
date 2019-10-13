@@ -1,0 +1,22 @@
+h1{
+	color: white;
+}
+table{
+	border-bottom: 2px solid white;
+	
+	background-color: #E40468;
+	padding: 50px;
+
+}
+tr: hover{
+	background-color: #D08894;
+
+}
+table,th,td{
+	color: white
+
+}
+body{
+	background-color: black;
+}
+
